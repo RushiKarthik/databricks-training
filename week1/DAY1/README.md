@@ -41,12 +41,6 @@ To practice and understand fundamental SQL concepts by solving 65 queries using 
 * Sorting data (ASC, DESC)
 * Multi-column sorting
 
-###  JOIN Operations
-
-* INNER JOIN
-* LEFT JOIN
-* RIGHT JOIN
-* Combining multiple tables
 
 ---
 
