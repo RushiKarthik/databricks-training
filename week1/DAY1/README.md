@@ -1,4 +1,4 @@
-# Day 1 - SQL Practice (65 Queries)
+# Day 1 - SQL Practice (35 Queries)
 
 Objective
 
